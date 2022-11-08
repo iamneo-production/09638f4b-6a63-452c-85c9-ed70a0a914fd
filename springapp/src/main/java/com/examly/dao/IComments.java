@@ -4,4 +4,4 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface IComments extends JpaRepository<Comments,Integer> {
     
-}t
+}
